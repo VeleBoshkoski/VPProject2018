@@ -1,0 +1,10 @@
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csprojResolveAssemblyReference.cache
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Users\Vele\source\repos\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb
